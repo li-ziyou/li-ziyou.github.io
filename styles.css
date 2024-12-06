@@ -1,0 +1,40 @@
+body {
+    font-family: "Courier New", Courier, monospace;
+    background-color: #ffffe0;
+    color: #000;
+    line-height: 1.4;
+    margin: 0;
+    padding: 0;
+}
+table {
+    width: 90%;
+    margin: 20px auto;
+    border: 2px solid #000;
+    background-color: #f0f0f0;
+}
+td {
+    padding: 15px;
+    vertical-align: top;
+}
+h1 {
+    text-align: center;
+    background-color: #000;
+    color: #fff;
+    padding: 10px;
+}
+a {
+    color: #0000ee;
+    text-decoration: underline;
+}
+a:hover {
+    color: #ff4500;
+}
+hr {
+    border: none;
+    border-top: 2px dashed #000;
+}
+footer {
+    text-align: center;
+    margin: 20px 0;
+    font-size: 0.9em;
+}
